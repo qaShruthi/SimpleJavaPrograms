@@ -41,10 +41,10 @@
   
   // Logic 5 : single statement 
   
-  //b=(a+b)-(a=b);30-20; 10;
+  b=(a+b)-(a=b);//11-6; 5;
   
- // System.out.println("After swapping a is : " + a + " After swapping b is : " +b); }
+ System.out.println("After swapping a is : " + a + " After swapping b is : " +b); }
   
-  }
+  //}
   }
  
